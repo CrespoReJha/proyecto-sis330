@@ -1,6 +1,8 @@
 # Ignorar el entorno virtual
 env/
-
+dataset/
+test-result/
+videos/
 # Archivos de Python
 __pycache__/
 *.pyc
@@ -12,6 +14,3 @@ __pycache__/
 .vscode/
 .idea/
 
-videos/
-dataset/
-test-result/
