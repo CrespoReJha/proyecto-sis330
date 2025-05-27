@@ -11,3 +11,7 @@ __pycache__/
 # Archivos de configuración de editores
 .vscode/
 .idea/
+
+videos/
+dataset/
+test-result/
