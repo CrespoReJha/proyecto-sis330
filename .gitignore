@@ -1,8 +1,6 @@
 # Ignorar el entorno virtual
 env/
-dataset/
 test-result/
-videos/
 # Archivos de Python
 __pycache__/
 *.pyc

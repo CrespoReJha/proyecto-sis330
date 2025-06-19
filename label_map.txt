@@ -1,2 +1,0 @@
-entrada 0
-salida 1
